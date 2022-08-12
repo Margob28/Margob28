@@ -8,4 +8,4 @@
 Margob28/Margob28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi, I am Gobir Mariam, I am interested in articles that centres on discourses on Nigerian English, its typology and other matters that are of concern to Nigerian language development, with emphasis on Nigerian Pidgin English, Nigerian English pronunciation, Nigerian English accents and registers
+Hi, I am Gobir Mariam, I am interested in articles that centres on discourses on Nigerian English, its typology and other matters that are of concern to Nigerian language development, with emphasis on Nigerian Pidgin English, Nigerian English pronunciation, Nigerian English accents and registers. I am currently working on the contextualisation if the Nigerian English typology known as the Popular Nigerian English. I will appreciate contributions in terms of provision of a corpus or list of corpses of Popular Nigerian English
